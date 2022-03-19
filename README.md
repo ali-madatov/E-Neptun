@@ -1,4 +1,4 @@
-## E-Neptun is University Management System - developed to handle all necessary data-related processes throughout the university. The project achieves the goal by providing personal acccounts to both staffs and students separately. The project uses Java Swing to design GUI.
+## E-Neptun is University Management System - developed to handle all necessary data-related processes throughout the university. The project achieves the goal by providing personal acccounts to both staffs and students separately. Java Swing was used to design GUI.
 
 ##                                                        Description 
 At university, a large amount of data is processed and the results are used in running an organization. The University management system project maintains the list of departments and faculties. It also maintains students and staffs with a proper menu system.
